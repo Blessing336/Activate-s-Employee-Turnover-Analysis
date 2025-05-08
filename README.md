@@ -94,7 +94,7 @@ In Customer Support alone, 450 employees, which is 32% of all unmentored staff, 
 <br/>
 
 Low salary emerged as one of the most common reasons employees gave for leaving Activate Company in 2024. Across all departments, staff members expressed frustration over pay that did not meet their expectations or align with industry standards.
-<div align = "center">  <img src = "Exit%20Interview%20Sentiment.png"> </div>
+<div align = "center">  <img src = "Low%20Salary%20Reason.png"> </div>
 The most affected department was Customer Support, where 35% of employees who exited cited low salary as the primary reason for leaving.
 
 <br/>
