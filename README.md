@@ -47,7 +47,24 @@ The 2024 replacement cost is over **six times higher than the cost in 2022 which
 <br/>
 ### 1b. What is the financial impact of employee turnover department-wise?
 
-<div align = "center">  <img src = "Overall%20Financial%20Impact.png"> </div>
+The combined replacement costs across all departments in 2024 amounted to the overall, with Customer Support and Sales alone contributing over half of the total cost.
+
+<div align = "center">  <img src = "Departmental%20Fiancial%20Impact.png)"> </div>
+
+
+* Customer Support: It had the highest replacement cost of all departments, reaching £4,420,360. With 314 employees exiting, Customer Support had the largest number of exits too.
+
+* Sales: It was the second-largest contributor to replacement costs, with a total of £2,948,638 spent on filling vacant roles.
+
+<br/> 
+
+
+### What departments had the highest turnover rate?
+
+
+
+
+
 
 This surge was primarily driven by two key factors:
 
