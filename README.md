@@ -118,17 +118,24 @@ Customer Support had the highest number of exits for this reason, with 28% of th
 
 # Recommendations
 
+* **Always receive ongoing feedback from current employees (Quarterly?)**
+
+* **Address pay discrepancies in departments, especially Customer Support**: Conduct a market salary analysis to align compensation with industry standards, focusing on frontline roles in Customer Support and Sales.
+
+* **Develop clear promotion pathways across all departments**: Create structured career paths that outline specific milestones and promotion criteria for each role, especially in Customer Support and Sales. Establish quarterly reviews for mid-level employees to discuss career progression, identify skill gaps, and provide targeted training opportunities.
+
+* **Revamp onboarding programs with department-specific focus**
+
+* **Strengthen Mentorship Programs to Support Frontline Staff**: Establish a mandatory mentorship program in Customer Support and Sales. Pair new hires with experienced staff to provide ongoing guidance.
 
 
+# Key questions for stakeholders prior to project advancement
+
+* Beyond exit interviews, has the company collected ongoing feedback from current employees regarding their satisfaction with pay, promotion paths, and mentorship opportunities?
+
+* **Long-Term Workforce Planning**: With the long-term employees phased out, what is the long-term vision for building a more stable, experienced workforce? Are stakeholders open to developing tailored retention plans for critical roles to prevent further losses?
 
 
-
-
-This surge was primarily driven by two key factors:
-
-**High Exit Volume**: In 2024, the company saw a substantial rise in employee exits, particularly in the Customer Support and Sales departments, both of which contributed significantly to the overall cost.
-
-**Increased Hiring Costs**: With more employees leaving and more roles to fill, the costs associated with recruitment, training, and productivity loss also escalated sharply.
 
 
 
