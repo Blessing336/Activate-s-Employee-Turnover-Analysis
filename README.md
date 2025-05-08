@@ -87,8 +87,8 @@ In 2024, negative feedback dominated exit interviews across all departments at A
 
 <br/>
 
-2024 data showed that the departments with the highest number of employees who did not participate in mentorship programs were **Customer Support and Sales**. These two departments also have the highest number of exits and the highest replacement costs, showing a strong link between poor mentorship and high turnover.
-<div align = "center">  <img src = "Exit%20Interview%20Sentiment.png"> </div>
+2024 data showed that the departments with the highest number of employees who were not called to participate in mentorship programs were **Customer Support and Sales**. These two departments also have the highest number of exits and the highest replacement costs, showing a strong link between poor mentorship and high turnover.
+<div align = "center">  <img src = "No%20Mentorship%20Reason.png"> </div>
 In Customer Support alone, 450 employees, which is 32% of all unmentored staff, did not have a mentor. Sales followed closely, with 322 employees (about 23% of unmentored staff) missing out on mentorship. 
 
 <br/>
