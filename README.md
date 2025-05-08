@@ -69,6 +69,7 @@ In 2019, Activate Company had a strong base of long-term employees who had been 
 By 2024, the overall average tenure had **fallen dramatically to just 0.48 years.** The company no longer had a recognizable long-term workforce, and even **the mid-term group had shrunk significantly**, with an average tenure of just 1 year. Early tenure employees, who made up the majority of the workforce, averaged just 0.48 years, showing the **rapid turnover and lack of long-term retention.**
 
  <br/>
+
 ### 2b. What is the turnover rate across departments
 
 The Finance, Customer Support, and IT departments all reported a turnover rate of 20% and Sales, 16%.
@@ -80,7 +81,42 @@ The Finance, Customer Support, and IT departments all reported a turnover rate o
 
 ### 3. Why are employees leaving rapidly?
 
-<div align = "center">  <img src = "Departmental%20Turnover.png"> </div>
+In 2024, negative feedback dominated exit interviews across all departments at Activate Company. Employees who left were consistently dissatisfied, expressing concerns that cut across various areas of the organization.
+
+<div align = "center">  <img src = "Exit%20Interview%20Sentiment.png"> </div>
+
+<br/>
+
+2024 data showed that the departments with the highest number of employees who did not participate in mentorship programs were **Customer Support and Sales**. These two departments also have the highest number of exits and the highest replacement costs, showing a strong link between poor mentorship and high turnover.
+<div align = "center">  <img src = "Exit%20Interview%20Sentiment.png"> </div>
+In Customer Support alone, 450 employees, which is 32% of all unmentored staff, did not have a mentor. Sales followed closely, with 322 employees (about 23% of unmentored staff) missing out on mentorship. 
+
+<br/>
+
+Low salary emerged as one of the most common reasons employees gave for leaving Activate Company in 2024. Across all departments, staff members expressed frustration over pay that did not meet their expectations or align with industry standards.
+<div align = "center">  <img src = "Exit%20Interview%20Sentiment.png"> </div>
+The most affected department was Customer Support, where 35% of employees who exited cited low salary as the primary reason for leaving.
+
+<br/>
+
+Another key reason employees are leaving Activate Company is the lack of a clear path for promotion. Many staff members who exited in 2024 said they did not see opportunities to grow or move up in their careers, which made them feel stuck and unmotivated.
+<div align = "center">  <img src = "Exit%20Interview%20Sentiment.png"> </div>
+Customer Support had the highest number of exits for this reason, with 28% of the employees who left saying they saw no promotion path. Sales, with 26% of exited employees in the department also cited the same.
+
+<br/>
+
+Many in 2024 also said they were not properly welcomed or supported when they first joined. This problem, known as "Poor Onboarding" was a common reason for exit, especially in departments that deal directly with customers (Customer Support Staffs and Sales People). 
+<div align = "center">  <img src = "Exit%20Interview%20Sentiment.png"> </div>
+
+<br/>
+
+
+
+
+
+
+
+
 
 This surge was primarily driven by two key factors:
 
