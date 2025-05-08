@@ -1,6 +1,6 @@
 # Project Description
 
-Activate Company was established in 2012 and is known for providing financial services to individuals and businesses across the world. **In 2024, the company had 5,654 active employees in the UK, but 980 employees left the UK branches that year.** This means that 17% of the workforce exited, which is a **408% increase** compared to that of 2023.
+Activate Company was established in 2012 and is known for providing financial services to individuals and businesses across the world. **In 2024, the company had 5,654 active employees in the UK, but 980 employees left the UK branches that year.** This shows that 17% of the workforce exited, which is a **408% increase** compared to that of 2023.
 
 This sharp rise in employee exits has caused a serious problem for the company. Replacing these employees has been extremely expensive. In 2024 alone, the **UK branches spent £13.7 million on hiring and training new workers** to fill the gaps left by those who left.
 
@@ -21,6 +21,8 @@ This project was carried out to understand why so many employees are leaving and
 <br/><br/>
 
 # Data Structure
+
+
 
 <br/><br/>
 # Executive Summary
