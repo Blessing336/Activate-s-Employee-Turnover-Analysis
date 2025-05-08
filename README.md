@@ -10,13 +10,13 @@ This project was carried out to understand why so many employees are leaving and
 
 ### The main objectives are to:
 
-* Analyze the financial impact of employee turnover.
+* Analyze the **financial impact** of employee turnover.
 
-* Identify the departments with the highest turnover.
+* Identify the departments with the **highest turnover**.
 
 * Examine the reasons why employees are leaving these departments.
 
-* Provide recommendations to reduce turnover.
+* Provide **recommendations** to reduce turnover.
 
 <br/><br/>
 
@@ -38,8 +38,22 @@ The company no longer has employees who have been there for long-term but employ
 
 ### 1. What is the financial impact of employee turnover?
 
+In 2024, Activate Company experienced a dramatic increase in the cost of replacing employees who exited. The total replacement cost in 2024 was **£13,675,148, representing a 493% surge** compared to the previous year’s cost of £2,306,730 in 2023.
 
+<div align = "center">  <img src = "Overall%20Financial%20Impact.png"> </div>
 
+The 2024 replacement cost is over **six times higher than the cost in 2022 which stood at £1,371,216**, 18 times higher than in 2020 when the cost was £543,151. Compared to 2019, when the company spent just £62,364 on replacements, **the 2024 cost is a staggering £13.6 million increase**, marking a 21,825% rise over five years.
+
+<br/>
+### 1b. What is the financial impact of employee turnover department-wise?
+
+<div align = "center">  <img src = "Overall%20Financial%20Impact.png"> </div>
+
+This surge was primarily driven by two key factors:
+
+**High Exit Volume**: In 2024, the company saw a substantial rise in employee exits, particularly in the Customer Support and Sales departments, both of which contributed significantly to the overall cost.
+
+**Increased Hiring Costs**: With more employees leaving and more roles to fill, the costs associated with recruitment, training, and productivity loss also escalated sharply.
 
 
 
