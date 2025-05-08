@@ -100,7 +100,7 @@ The most affected department was Customer Support, where 35% of employees who ex
 <br/>
 
 Another key reason employees are leaving Activate Company is the lack of a clear path for promotion. Many staff members who exited in 2024 said they did not see opportunities to grow or move up in their careers, which made them feel stuck and unmotivated.
-<div align = "center">  <img src = "Exit%20Interview%20Sentiment.png"> </div>
+<div align = "center">  <img src = "No%20Promotion%20Path%20Reason.png"> </div>
 Customer Support had the highest number of exits for this reason, with 28% of the employees who left saying they saw no promotion path. Sales, with 26% of exited employees in the department also cited the same.
 
 <br/>
