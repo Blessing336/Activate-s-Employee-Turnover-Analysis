@@ -1,6 +1,26 @@
 # Project Description
 
+Activate Company was established in 2012 and is known for providing financial services to individuals and businesses across the world. In 2024, the company had 5,654 active employees in the UK, but 980 employees left the UK branches that year. This means that 17% of the workforce exited, which is a 408% increase compared to that of 2023.
 
+This sharp rise in employee exits has caused a serious problem for the company. Replacing these employees has been extremely expensive. In 2024 alone, the UK branches spent £13.7 million on hiring and training new workers to fill the gaps left by those who left.
+
+The Customer Support and Sales departments were the biggest contributors to this cost, making up more than half of the total spending on replacements. This pattern suggests that certain departments are struggling more than others to keep their employees.
+
+This project was carried out to understand why so many employees are leaving and how much it is costing the company. 
+
+<br/>
+
+### The main objectives are to:
+
+* Analyze the financial impact of employee turnover.
+
+* Identify the departments with the highest turnover.
+
+* Examine the reasons why employees are leaving these departments.
+
+* Provide recommendations to reduce turnover.
+
+<br/><br/>
 # Executive Summary
 
 Activate Company has been losing a lot of money because many employees are leaving. In 2024, the company spent £13.7 million to replace employees who left. This is a 493% increase from 2023. The Customer Support and Sales departments were the biggest contributors to this cost. Together, they made up more than half of the £13.7 million spent on replacing workers in 2024.
