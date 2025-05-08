@@ -1,10 +1,10 @@
 # Project Description
 
-Activate Company was established in 2012 and is known for providing financial services to individuals and businesses across the world. **In 2024, the company had 5,654 active employees in the UK, but 980 employees left the UK branches that year.** This shows that 17% of the workforce exited, which is a **408% increase** compared to that of 2023.
+Activate Company was established in 2012 and it is known for providing financial services to individuals and businesses across the world. **In 2024, the company had 5,654 active employees in the UK, but 980 employees left the UK branches that year.** This shows that 17% of the workforce exited, which is a **408% increase** compared to that of 2023.
 
 This sharp rise in employee exits has caused a serious problem for the company. Replacing these employees has been extremely expensive. In 2024 alone, the **UK branches spent £13.7 million on hiring and training new workers** to fill the gaps left by those who left.
 
-This project was carried out to understand why so many employees are leaving and what are the contributors to departmental turnovers. 
+This project was carried out to understand why so many employees are leaving and what are the contributors to turnovers. 
 
 <br/>
 
@@ -14,7 +14,7 @@ This project was carried out to understand why so many employees are leaving and
 
 * Identify the departments with the **highest turnover**.
 
-* Examine the reasons why employees are leaving these departments.
+* Examine the **reasons why** employees are leaving these departments rapidly.
 
 * Provide **recommendations** to reduce turnover.
 
@@ -24,13 +24,17 @@ This project was carried out to understand why so many employees are leaving and
 
 <div align = "center">  <img src = "Dataset%20Structure.png">  </div>
 
+
 <br/><br/>
 # Executive Summary
 
-Activate Company has been losing a lot of money because many employees are leaving. In 2024, the company spent £13.7 million to replace employees who left. This is a 493% increase from 2023. The Customer Support and Sales departments were the biggest contributors to this cost. Together, they made up more than half of the £13.7 million spent on replacing workers in 2024.
+Activate Company faced a severe retention crisis in 2024, spending **£13.7 million on replacing 980 employees**, a 493% increase from 2023. The **highest turnover was seen in Customer Support and Sales**, with Customer Support alone costing the company £4.4 million, accounting for 32% of the total replacement cost. Sales followed, contributing £2.95 million, emphasizing the urgent need for intervention in these departments.
 
-The company no longer has employees who have been there for long-term but employees who have been there for less than 3 years . This shift happened because many people left for similar reasons (low salaries, poor onboarding, no promotion path)
+The primary reasons for exit were **low salary, lack of promotion paths, poor onboarding, and weak mentorship participation**. Customer Support and Sales again topped the list, with 35% of exits in Customer Support and 26% in Sales linked to low pay. The absence of structured promotion paths also pushed 28% of Customer Support staff and 26% of Sales staff to leave, feeling their efforts led nowhere. Poor onboarding further compounded the problem, with 35% of Customer Support exits and 26% of Sales exits driven by inadequate training and lack of guidance.
 
+Mentorship gaps played a significant role in early exits, with 450 unmentored Customer Support employees (32%) and 322 unmentored Sales employees (23%) leaving the company, highlighting a major void in support for frontline staff.
+
+**Immediate action is required to address pay structure, career advancement opportunities, and onboarding processes** to stabilize the workforce and reduce financial losses.
 
 <br/><br/>
 
@@ -72,7 +76,7 @@ By 2024, the overall average tenure had **fallen dramatically to just 0.48 years
 
 ### 2b. What is the turnover rate across departments
 
-The Finance, Customer Support, and IT departments all reported a turnover rate of 20% and Sales, 16%.
+The Finance, Customer Support, and IT departments all reported a turnover rate of **20%** and Sales, **16%**.
 
 <div align = "center">  <img src = "Departmental%20Turnover.png"> </div>
 
@@ -81,36 +85,38 @@ The Finance, Customer Support, and IT departments all reported a turnover rate o
 
 ### 3. Why are employees leaving rapidly?
 
-In 2024, negative feedback dominated exit interviews across all departments at Activate Company. Employees who left were consistently dissatisfied, expressing concerns that cut across various areas of the organization.
+* In 2024, **negative feedback dominated exit interviews across all departments**. Employees who left were consistently dissatisfied, expressing concerns that cut across various areas of the organization.
 
 <div align = "center">  <img src = "Exit%20Interview%20Sentiment.png"> </div>
 
 <br/><br/>
 
-2024 data showed that the departments with the highest number of employees who were not called to participate in mentorship programs were **Customer Support and Sales**. These two departments also have the highest number of exits and the highest replacement costs, showing a strong link between poor mentorship and high turnover.
+* **No Mentorship Participation:** 2024 data showed that the departments with the highest number of employees who were not called to participate in mentorship programs were **Customer Support and Sales**. These two departments also have the **highest number of exits and the highest replacement costs**, showing a strong link between poor mentorship and high turnover.
 <div align = "center">  <img src = "No%20Mentorship%20Reason.png"> </div>
 In Customer Support alone, 450 employees, which is 32% of all unmentored staff, did not have a mentor. Sales followed closely, with 322 employees (about 23% of unmentored staff) missing out on mentorship. 
 
 <br/><br/>
 
-Low salary emerged as one of the most common reasons employees gave for leaving Activate Company in 2024. Across all departments, staff members expressed frustration over pay that did not meet their expectations or align with industry standards.
+* **Low salary** emerged as one of **the most common reasons employees gave for leaving** Activate Company in 2024. Across all departments, staff members expressed frustration over pay that did not meet their expectations or align with industry standards.
 <div align = "center">  <img src = "Low%20Salary%20Reason.png"> </div>
 The most affected department was Customer Support, where 35% of employees who exited cited low salary as the primary reason for leaving.
 
 <br/><br/>
 
-Another key reason employees are leaving Activate Company is the lack of a clear path for promotion. Many staff members who exited in 2024 said they did not see opportunities to grow or move up in their careers, which made them feel stuck and unmotivated.
+* **No Promotion Path:** Another key reason employees are leaving Activate Company is the **lack of a clear path for promotion**. Many staff members who exited in 2024 said they did not see opportunities to grow or move up in their careers.
 <div align = "center">  <img src = "No%20Promotion%20Path%20Reason.png"> </div>
 Customer Support had the highest number of exits for this reason, with 28% of the employees who left saying they saw no promotion path. Sales, with 26% of exited employees in the department also cited the same.
 
 <br/><br/>
 
-Many in 2024 also said they were not properly welcomed or supported when they first joined. This problem, known as "Poor Onboarding" was a common reason for exit, especially in departments that deal directly with customers (Customer Support Staffs and Sales People). 
+* **Poor Onboarding:** Many in 2024 also said they were not properly supported when they first joined. This problem was a common reason for exit, especially in departments that deal directly with customers (Customer Support Staffs and Sales People). 
 <div align = "center">  <img src = "Poor%20Onboarding.png"> </div>
 
 <br/><br/>
 
 
+
+# Recommendations
 
 
 
