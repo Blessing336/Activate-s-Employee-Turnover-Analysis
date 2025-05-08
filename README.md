@@ -48,32 +48,39 @@ The 2024 replacement cost is over **six times higher than the cost in 2022 which
 
 ### 1b. What is the financial impact of employee turnover department-wise?
 
-The combined replacement costs across all departments in 2024 amounted to the overall, with Customer Support and Sales alone contributing over half of the total cost.
+The combined replacement costs across all departments in 2024 amounted to the overall, **with Customer Support and Sales alone contributing over half of the total cost.**
 
 <div align = "center">  <img src = "Departmental%20Fiancial%20Impact.png"> </div>
 
 
-* Customer Support: It had the highest replacement cost of all departments, reaching £4,420,360. With 314 employees exiting, Customer Support had the largest number of exits too.
+* Customer Support: It had the **highest replacement cost** of all departments, reaching £4,420,360. With 314 employees exiting, Customer Support had the largest number of exits too.
 
-* Sales: It was the second-largest contributor to replacement costs, with a total of £2,948,638 spent on filling vacant roles.
+* Sales: It was the **second-largest contributor** to replacement costs, with a total of £2,948,638 spent on filling vacant roles.
 
 <br/> 
 
 
-### 2. What are the turnover rates in the company and across departments?
+### 2. What is the rate of turnover in the company?
 
 In 2019, Activate Company had a strong base of long-term employees who had been with the company for over three years. The average tenure across all employees was 5.29 years, indicating a stable workforce with a solid foundation of experienced staff.
 
-<div align = "center">  <img src = "Departmental%20Turnover.png"> </div>
+<div align = "center">  <img src = "Overall%20turnover.png"> </div>
 
-By 2024, the overall average tenure had fallen dramatically to just 0.48 years. The company no longer had a recognizable long-term workforce, and even the mid-term group had shrunk significantly, with an average tenure of just 1 year. Early tenure employees, who made up the majority of the workforce, averaged just 0.48 years, showing the rapid turnover and lack of long-term retention.
+By 2024, the overall average tenure had **fallen dramatically to just 0.48 years.** The company no longer had a recognizable long-term workforce, and even **the mid-term group had shrunk significantly**, with an average tenure of just 1 year. Early tenure employees, who made up the majority of the workforce, averaged just 0.48 years, showing the **rapid turnover and lack of long-term retention.**
 
  <br/>
-### 2.
+### 2b. What is the turnover rate across departments
+
 The Finance, Customer Support, and IT departments all reported a turnover rate of 20% and Sales, 16%.
+
 <div align = "center">  <img src = "Departmental%20Turnover.png"> </div>
 
 
+ <br/>
+
+### 3. Why are employees leaving rapidly?
+
+<div align = "center">  <img src = "Departmental%20Turnover.png"> </div>
 
 This surge was primarily driven by two key factors:
 
