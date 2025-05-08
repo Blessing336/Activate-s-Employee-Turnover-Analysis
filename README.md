@@ -85,30 +85,30 @@ In 2024, negative feedback dominated exit interviews across all departments at A
 
 <div align = "center">  <img src = "Exit%20Interview%20Sentiment.png"> </div>
 
-<br/>
+<br/><br/>
 
 2024 data showed that the departments with the highest number of employees who were not called to participate in mentorship programs were **Customer Support and Sales**. These two departments also have the highest number of exits and the highest replacement costs, showing a strong link between poor mentorship and high turnover.
 <div align = "center">  <img src = "No%20Mentorship%20Reason.png"> </div>
 In Customer Support alone, 450 employees, which is 32% of all unmentored staff, did not have a mentor. Sales followed closely, with 322 employees (about 23% of unmentored staff) missing out on mentorship. 
 
-<br/>
+<br/><br/>
 
 Low salary emerged as one of the most common reasons employees gave for leaving Activate Company in 2024. Across all departments, staff members expressed frustration over pay that did not meet their expectations or align with industry standards.
 <div align = "center">  <img src = "Low%20Salary%20Reason.png"> </div>
 The most affected department was Customer Support, where 35% of employees who exited cited low salary as the primary reason for leaving.
 
-<br/>
+<br/><br/>
 
 Another key reason employees are leaving Activate Company is the lack of a clear path for promotion. Many staff members who exited in 2024 said they did not see opportunities to grow or move up in their careers, which made them feel stuck and unmotivated.
 <div align = "center">  <img src = "No%20Promotion%20Path%20Reason.png"> </div>
 Customer Support had the highest number of exits for this reason, with 28% of the employees who left saying they saw no promotion path. Sales, with 26% of exited employees in the department also cited the same.
 
-<br/>
+<br/><br/>
 
 Many in 2024 also said they were not properly welcomed or supported when they first joined. This problem, known as "Poor Onboarding" was a common reason for exit, especially in departments that deal directly with customers (Customer Support Staffs and Sales People). 
-<div align = "center">  <img src = "Exit%20Interview%20Sentiment.png"> </div>
+<div align = "center">  <img src = "Poor%20Onboarding.png"> </div>
 
-<br/>
+<br/><br/>
 
 
 
