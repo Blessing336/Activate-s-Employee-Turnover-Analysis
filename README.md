@@ -22,7 +22,7 @@ This project was carried out to understand why so many employees are leaving and
 
 # Data Structure
 
-
+<div align = "center">  <img src = "Dataset%20Structure.png">  </div>
 
 <br/><br/>
 # Executive Summary
