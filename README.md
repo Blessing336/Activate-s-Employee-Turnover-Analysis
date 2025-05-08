@@ -45,6 +45,7 @@ In 2024, Activate Company experienced a dramatic increase in the cost of replaci
 The 2024 replacement cost is over **six times higher than the cost in 2022 which stood at £1,371,216**, 18 times higher than in 2020 when the cost was £543,151. Compared to 2019, when the company spent just £62,364 on replacements, **the 2024 cost is a staggering £13.6 million increase**, marking a 21,825% rise over five years.
 
 <br/>
+
 ### 1b. What is the financial impact of employee turnover department-wise?
 
 The combined replacement costs across all departments in 2024 amounted to the overall, with Customer Support and Sales alone contributing over half of the total cost.
@@ -59,10 +60,16 @@ The combined replacement costs across all departments in 2024 amounted to the ov
 <br/> 
 
 
-### What are the turnover rates in the company and across departments?
+### 2. What are the turnover rates in the company and across departments?
 
+In 2019, Activate Company had a strong base of long-term employees who had been with the company for over three years. The average tenure across all employees was 5.29 years, indicating a stable workforce with a solid foundation of experienced staff.
 
+<div align = "center">  <img src = "Departmental%20Turnover.png"> </div>
 
+By 2024, the overall average tenure had fallen dramatically to just 0.48 years. The company no longer had a recognizable long-term workforce, and even the mid-term group had shrunk significantly, with an average tenure of just 1 year. Early tenure employees, who made up the majority of the workforce, averaged just 0.48 years, showing the rapid turnover and lack of long-term retention.
+
+ <br/>
+### 2.
 The Finance, Customer Support, and IT departments all reported a turnover rate of 20% and Sales, 16%.
 <div align = "center">  <img src = "Departmental%20Turnover.png"> </div>
 
