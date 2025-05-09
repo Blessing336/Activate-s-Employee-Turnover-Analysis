@@ -20,7 +20,7 @@ This project was carried out to understand why so many employees are leaving and
 
 <br/>
 
-Interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNmU2ZDhhMWUtNmY3MC00MzA5LTk0ZGQtNTBkMGJkYzIwZjdkIiwidCI6IjY5M2I4NzFiLTNhMjItNDUxOS04ZjZhLTFhYjNjOTI4Y2FlMSJ9)!
+*Interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNmU2ZDhhMWUtNmY3MC00MzA5LTk0ZGQtNTBkMGJkYzIwZjdkIiwidCI6IjY5M2I4NzFiLTNhMjItNDUxOS04ZjZhLTFhYjNjOTI4Y2FlMSJ9)!*
 
 <br/><br/>
 
