@@ -1,10 +1,10 @@
 # Project Description
 
-Activate Company was established in 2012 and it is known for providing financial services to individuals and businesses across the world. **In 2024, the company had 5,654 active employees in the UK, but 980 employees left the UK branches that year.** This shows that 17% of the workforce exited, which is a **408% increase** compared to that of 2023.
+Activate Company was established in 2012 and is known for providing financial services to individuals and businesses across the world. **In 2024, the company had 5,654 active employees in the UK, but 980 employees left the UK branches that year.** This shows that 17% of the workforce exited.
 
 This sharp rise in employee exits has caused a serious problem for the company. Replacing these employees has been extremely expensive. In 2024 alone, the **UK branches spent £13.7 million on hiring and training new workers** to fill the gaps left by those who left.
 
-This project was carried out to understand why so many employees are leaving and what are the contributors to turnovers. 
+This project was carried out to understand how the Activate Company is doing and why so many employees are leaving. 
 
 <br/>
 
@@ -22,6 +22,8 @@ This project was carried out to understand why so many employees are leaving and
 
 *Interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNmU2ZDhhMWUtNmY3MC00MzA5LTk0ZGQtNTBkMGJkYzIwZjdkIiwidCI6IjY5M2I4NzFiLTNhMjItNDUxOS04ZjZhLTFhYjNjOTI4Y2FlMSJ9)!*
 
+*Download PDF Report [here](https://ooojege-my.sharepoint.com/:b:/g/personal/blessing_ooojege_onmicrosoft_com/EX1ZCs1y0rBEikvnUgISoEcB7GORZ9KEA5N9cEmQG2sq6g?e=YZriC2)!
+
 <br/><br/>
 
 # Data Structure
@@ -34,9 +36,9 @@ This project was carried out to understand why so many employees are leaving and
 
 Activate Company faced a severe retention crisis in 2024, spending **£13.7 million on replacing 980 employees**, a 493% increase from 2023. The **highest turnover was seen in Customer Support and Sales**, with Customer Support alone costing the company £4.4 million, accounting for 32% of the total replacement cost. Sales followed, contributing £2.95 million, emphasizing the urgent need for intervention in these departments.
 
-The primary reasons for exit were **low salary, lack of promotion paths, poor onboarding, and weak mentorship participation**. Customer Support and Sales again topped the list, with 35% of exits in Customer Support and 26% in Sales linked to low pay. The absence of structured promotion paths also pushed 28% of Customer Support staff and 26% of Sales staff to leave, feeling their efforts led nowhere. Poor onboarding further compounded the problem, with 35% of Customer Support exits and 26% of Sales exits driven by inadequate training and lack of guidance.
+The primary reasons for exit are **low salary, lack of promotion paths, poor onboarding, and weak mentorship participation**. Customer Support and Sales again topped the list, with 35% of exits in Customer Support and 26% in Sales linked to low pay. The absence of structured promotion paths also pushed 28% of Customer Support staff and 26% of Sales staff to leave, feeling their efforts led nowhere. Poor onboarding further compounded the problem, with 35% of Customer Support exits and 26% of Sales exits driven by inadequate training and lack of guidance.
 
-Mentorship gaps played a significant role in early exits, with 450 unmentored Customer Support employees (32%) and 322 unmentored Sales employees (23%) leaving the company, highlighting a major void in support for frontline staff.
+Mentorship gaps played a significant role in early exits too, with 450 unmentored Customer Support employees (32%) and 322 unmentored Sales employees (23%) not mentored, highlighting a major void in support for frontline staff.
 
 **Immediate action is required to address pay structure, career advancement opportunities, and onboarding processes** to stabilize the workforce and reduce financial losses.
 
@@ -95,19 +97,19 @@ The Finance, Customer Support, and IT departments all reported a turnover rate o
 
 <br/><br/>
 
-* **No Mentorship Participation:** 2024 data showed that the departments with the highest number of employees who were not called to participate in mentorship programs were **Customer Support and Sales**. These two departments also have the **highest number of exits and the highest replacement costs**, showing a strong link between poor mentorship and high turnover.
+* **No Mentorship Participation:** 2024 data shows that the departments with the highest number of employees who were not called to participate in mentorship programs aree **Customer Support and Sales**. These two departments also have the **highest number of exits and the highest replacement costs**, showing a strong link between poor mentorship and high turnover.
 <div align = "center">  <img src = "No%20Mentorship%20Reason.png"> </div>
 In Customer Support alone, 450 employees, which is 32% of all unmentored staff, did not have a mentor. Sales followed closely, with 322 employees (about 23% of unmentored staff) missing out on mentorship. 
 
 <br/><br/>
 
-* **Low salary** emerged as one of **the most common reasons employees gave for leaving** Activate Company in 2024. Across all departments, staff members expressed frustration over pay that did not meet their expectations or align with industry standards.
+* **Low salary** emerged as one of **the most common reasons employees shared for leaving** Activate Company in 2024. Across all departments, staff members expressed frustration over pay that did not meet their expectations or align with industry standards.
 <div align = "center">  <img src = "Low%20Salary%20Reason.png"> </div>
 The most affected department was Customer Support, where 35% of employees who exited cited low salary as the primary reason for leaving.
 
 <br/><br/>
 
-* **No Promotion Path:** Another key reason employees are leaving Activate Company is the **lack of a clear path for promotion**. Many staff members who exited in 2024 said they did not see opportunities to grow or move up in their careers.
+* **No Promotion Path:** Another key reason employees left Activate Company is the **lack of a clear path for promotion**. Many staff members who exited in 2024 said they did not see opportunities to grow or move up in their careers.
 <div align = "center">  <img src = "No%20Promotion%20Path%20Reason.png"> </div>
 Customer Support had the highest number of exits for this reason, with 28% of the employees who left saying they saw no promotion path. Sales, with 26% of exited employees in the department also cited the same.
 
