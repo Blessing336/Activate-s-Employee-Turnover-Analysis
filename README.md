@@ -22,7 +22,7 @@ This project was carried out to understand how the Activate Company is doing and
 
 *Interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNmU2ZDhhMWUtNmY3MC00MzA5LTk0ZGQtNTBkMGJkYzIwZjdkIiwidCI6IjY5M2I4NzFiLTNhMjItNDUxOS04ZjZhLTFhYjNjOTI4Y2FlMSJ9)!*
 
-*Download PDF Report [here](https://ooojege-my.sharepoint.com/:b:/g/personal/blessing_ooojege_onmicrosoft_com/EX1ZCs1y0rBEikvnUgISoEcB7GORZ9KEA5N9cEmQG2sq6g?e=YZriC2)!
+*Download PDF Report [here](https://ooojege-my.sharepoint.com/:b:/g/personal/blessing_ooojege_onmicrosoft_com/EX1ZCs1y0rBEikvnUgISoEcB7GORZ9KEA5N9cEmQG2sq6g?e=YZriC2)!*
 
 <br/><br/>
 
