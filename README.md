@@ -1,8 +1,3 @@
----
-gitea: none
-include_toc: true
----
-
 # Project Description
 
 Activate Company was established in 2012 and is known for providing financial services to individuals and businesses across the world. **In 2024, the company had 5,654 active employees in the UK, but 980 employees left the UK branches that year.** This shows that 17% of the workforce exited.
