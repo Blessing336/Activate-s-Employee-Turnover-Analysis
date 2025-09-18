@@ -28,7 +28,35 @@ This project was carried out to understand how the Activate Company is doing and
 
 # Data Structure
 
-<div align = "center">  <img src = "Dataset%20Structure.png">  </div>
+The dataset contains four connected tables, each serving a unique role in explaining why employees are leaving and what factors are driving replacement costs.
+
+<br/>
+
+The **Fact table** captures the core experience and performance measures of employees. It includes **engagement scores, satisfaction with managers, onboarding quality, peer support, and performance ratings**. It also tracks whether **employees had a mentor, participated in mentorship programs, received promotions or recognition, as well as how long it took to get a first promotion and how many training hours were completed in the first month**. 
+
+<br/>
+
+The **Employment_Status table** records hire and exit details for every employee. It provides the **hire date, exit date, tenure, reasons for leaving, whether an exit interview was completed, the sentiment of those interviews, and whether there was a performance drop before leaving**. Importantly, it also **assigns replacement costs for each exit**.
+
+<br/>
+
+The **Employees table** adds demographic and role-based information. It contains **employee age groups, gender, education level, department, job role, location, and work arrangement (remote, hybrid, or onsite)**. It also records **salary details such as starting pay, market benchmarks, and years of prior experience**.
+
+<br/>
+
+The Date table provides the timeline dimension for the project. It organizes events by day, month, quarter, and year, while also allowing analysis along fiscal calendars. This table is key for identifying when attrition spikes occur, whether exits cluster in specific months or quarters, and how hiring compares to exits over time. By aligning attrition with time, the business can see if patterns are seasonal, linked to policy changes, or related to external market conditions.
+
+<br/>
+
+Together, these tables connect the **“who” (Employees), the “what” (Fact), and the “why” (Employment_Status)**. This structure makes it possible to analyze employee turnover as a story of experiences, costs, and workforce gaps that are affecting Activate Company’s UK branches.
+
+
+
+<br/><br/>
+
+# Technical Details
+
+
 
 
 <br/><br/>
