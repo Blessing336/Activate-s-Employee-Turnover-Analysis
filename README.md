@@ -18,11 +18,6 @@ This project was carried out to understand how the Activate Company is doing and
 
 * Provide **recommendations** to reduce turnover.
 
-<br/>
-
-*Interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNmU2ZDhhMWUtNmY3MC00MzA5LTk0ZGQtNTBkMGJkYzIwZjdkIiwidCI6IjY5M2I4NzFiLTNhMjItNDUxOS04ZjZhLTFhYjNjOTI4Y2FlMSJ9)!*
-
-*Download PDF Report [here](https://ooojege-my.sharepoint.com/:b:/g/personal/blessing_ooojege_onmicrosoft_com/EX1ZCs1y0rBEikvnUgISoEcB7GORZ9KEA5N9cEmQG2sq6g?e=YZriC2)!*
 
 <br/><br/>
 
@@ -187,14 +182,27 @@ Date Table:
 
 * Created DAX measures to quantify attrition, tenure, engagement, costs, promotions, and recognitions.
 
-* Designed 3 report pages in Power BI, syncing slicers across all pages for consistency.
+
 
 <br/>
 
 ![measure](https://github.com/Blessing336/Activate-s-Employee-Turnover-Analysis/blob/4004c4f562160db63ff688a6570b8f4dc0938186/measure2.png)
 
 
+<br/>
+
+**4. Designed 3 report pages in Power BI, syncing slicers across all pages for consistency:**
+
+<br/>
+
+<br/>
+
+*Interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNmU2ZDhhMWUtNmY3MC00MzA5LTk0ZGQtNTBkMGJkYzIwZjdkIiwidCI6IjY5M2I4NzFiLTNhMjItNDUxOS04ZjZhLTFhYjNjOTI4Y2FlMSJ9)!*
+
+*Download PDF Report [here](https://ooojege-my.sharepoint.com/:b:/g/personal/blessing_ooojege_onmicrosoft_com/EX1ZCs1y0rBEikvnUgISoEcB7GORZ9KEA5N9cEmQG2sq6g?e=YZriC2)!*
+
 <br/><br/>
+
 # Executive Summary
 
 Activate Company faced a severe retention crisis in 2024, spending **£13.7 million on replacing 980 employees**, a 493% increase from 2023. The **highest turnover was seen in Customer Support and Sales**, with Customer Support alone costing the company £4.4 million, accounting for 32% of the total replacement cost. Sales followed, contributing £2.95 million, emphasizing the urgent need for intervention in these departments.
