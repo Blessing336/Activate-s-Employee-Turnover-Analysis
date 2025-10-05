@@ -82,13 +82,13 @@ Process Workflow:
 
 Data Cleaning & Preparation:
 
-1. Data Import:
+**1. Data Import:**
 
 * Loaded the Excel dataset into Power BI: Verified column data types (dates → date type, salaries → numeric, categorical fields → text).
 
 <br/>
 
-2. Data Quality Checks:
+**2. Data Quality Checks:**
 
 * Removed duplicate Employee IDs.
 
@@ -139,7 +139,7 @@ Date Table:
 <br/>
 
 
-3. Data Modeling:
+**3. Data Modeling:**
 
 * Set Employee ID as the key connecting Employees, Fact, and Employment_Status tables.
 
@@ -147,7 +147,7 @@ Date Table:
 
 <br/>
 
-Some Measures Created (DAX):
+**4. Some Measures Created (DAX):**
 
 * Turnover Rate =
 
@@ -191,7 +191,7 @@ Some Measures Created (DAX):
 
 <br/>
 
-
+![measure](https://github.com/Blessing336/Activate-s-Employee-Turnover-Analysis/blob/67f09419984f365bbe9fb72d8a701cf131877638/measure%20table.png)
 
 
 <br/><br/>
