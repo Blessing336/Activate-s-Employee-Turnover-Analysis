@@ -191,7 +191,7 @@ Date Table:
 
 <br/>
 
-![measure](https://github.com/Blessing336/Activate-s-Employee-Turnover-Analysis/blob/67f09419984f365bbe9fb72d8a701cf131877638/measure%20table.png)
+![measure](https://github.com/Blessing336/Activate-s-Employee-Turnover-Analysis/blob/4004c4f562160db63ff688a6570b8f4dc0938186/measure2.png)
 
 
 <br/><br/>
