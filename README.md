@@ -50,11 +50,135 @@ The Date table provides the timeline dimension for the project. It organizes eve
 
 Together, these tables connect the **“who” (Employees), the “what” (Fact), and the “why” (Employment_Status)**. This structure makes it possible to analyze employee turnover as a story of experiences, costs, and workforce gaps that are affecting Activate Company’s UK branches.
 
-
+![Data Structure](https://github.com/Blessing336/Activate-s-Employee-Turnover-Analysis/blob/df4ca5cf1772174dcb3525f5c0207f4931193081/Data%20Structure.png)
 
 <br/><br/>
 
 # Technical Details
+
+Tools Used:
+
+**Power BI (Data Model, DAX, Visualization) for creating new calculated columns, measures, relationships, and building dashboards.**
+
+<br/>
+
+Process Workflow:
+
+* **Imported raw dataset into Power BI.**
+
+* **Cleaned data (standardized categorical columns).**
+
+* **Created additional columns (Age Sort, Education Sort, Tenure, Years in Company).**
+
+* **Built custom Date table for time-based reporting.**
+
+* **Modeled relationships between Fact, Employees, Employment_Status, and Date.**
+
+* **Created DAX measures to quantify attrition, tenure, engagement, costs, promotions, and recognition.**
+
+* **Designed 3 report pages in Power BI, syncing slicers across all pages for consistency.**
+
+<br/>
+
+Data Cleaning & Preparation:
+
+1. Data Import:
+
+* Loaded the Excel dataset into Power BI: Verified column data types (dates → date type, salaries → numeric, categorical fields → text).
+
+<br/>
+
+2. Data Quality Checks:
+
+* Removed duplicate Employee IDs.
+
+* Fixed spelling and inconsistency issues in categorical fields (e.g., Job Role, Department, Location).
+
+* Filled missing values for Exit Interview Sentiment with “No Interview” category to avoid blank outputs in reports.
+
+* New Columns (Created for Better Analysis):
+
+<br/>
+
+Employees Table:
+
+**Age Sort** → numeric column created to correctly order Age Groups in visualizations (e.g., 20–29 before 30–39).
+
+**Education Sort** → numeric column created to sort Education Levels (High School → Bachelor’s → Master’s → PhD).
+
+<br/>
+
+Employment_Status Table:
+
+**Tenure** → calculated as difference between Hire Date and Exit Date (or Today (Day of Analysis) if still employed). This gives exact length of employment for each employee.
+
+**Years in Company** → grouped the Tenure column into bands (0–1, 2–5, 6–10, 10+). This helps identify which employee groups are most at risk of leaving.
+
+<br/>
+
+Date Table:
+
+→ Built a custom Date table (using M codes).
+
+→ Added columns for Year, Month, Quarter and Week of Year.
+
+→ Ensured the Date table covers the entire time range of employee hire and exit dates to give more granular control over time-series analysis (attrition per month, hires vs exits by quarter).
+
+→ Synced Year slicers across all three report pages to ensure all visuals update consistently when a year filter is applied.
+
+<br/>
+
+3. Data Modeling:
+
+* Set Employee ID as the key connecting Employees, Fact, and Employment_Status tables.
+
+* Linked Hire Date and Exit Date from Employment_Status to the Date table for time-based analysis.
+
+<br/>
+
+Some Measures Created (DAX):
+
+* Turnover Rate =
+
+      VAR Employees_at_beginning = [Employees_at_beginning]
+      
+      VAR Employees_at_end = [Employees_at_end]
+      
+      VAR AvgEmp = DIVIDE(Employees_at_beginning + Employees_at_end, 2)
+      
+      VAR Exitemp = [Exited Employees]
+      
+      RETURN divide(Exitemp, AvgEmp)
+
+* Replacement Cost = SUM of Replacement Cost column (from Employment_Status).
+
+* Exit Sentiment Index = Percentages per departments.
+
+* Sentiment Percent Color = 
+
+      VAR Sentiment_Count_Exited = 
+      CALCULATE(
+          [Exited Employees],
+          Employment_Status[Exit Year] <> BLANK()
+      )
+      
+      VAR hmmn =
+      CALCULATE([Exited Employees], Employment_Status[Exit Interview Sentiment] <> BLANK(), ALLEXCEPT('Date', 'Date'[Year]))
+      
+          RETURN 
+      DIVIDE(Sentiment_Count_Exited, hmmn)
+
+* Promotion Rate = % of employees with Promotion Received = Yes.
+
+* Recognition Rate = % of employees with Recognition = Yes.
+
+* Career Satisfaction Avg = Average of Satisfaction with Career Path.
+
+* Created DAX measures to quantify attrition, tenure, engagement, costs, promotions, and recognitions.
+
+* Designed 3 report pages in Power BI, syncing slicers across all pages for consistency.
+
+<br/>
 
 
 
