@@ -120,16 +120,23 @@ Date Table:
 
 → Built a custom Date table (using M codes).
 
+<br/>
+
+![date](https://github.com/Blessing336/Activate-s-Employee-Turnover-Analysis/blob/4b41feda8f1b941c0ccd6d42bcf0087867e93f69/Date%20Table%20created.png)
+
+<br/>
+
 → Added columns for Year, Month, Quarter and Week of Year.
 
 → Ensured the Date table covers the entire time range of employee hire and exit dates to give more granular control over time-series analysis (attrition per month, hires vs exits by quarter).
 
 → Synced Year slicers across all three report pages to ensure all visuals update consistently when a year filter is applied.
 
-![date](https://github.com/Blessing336/Activate-s-Employee-Turnover-Analysis/blob/4b41feda8f1b941c0ccd6d42bcf0087867e93f69/Date%20Table%20created.png)
-
 <br/>
 
+![sync](https://github.com/Blessing336/Activate-s-Employee-Turnover-Analysis/blob/221409c822510404475aaf5fd214ace66d65b704/sync%20slicer%20image.png)
+
+<br/>
 
 
 3. Data Modeling:
