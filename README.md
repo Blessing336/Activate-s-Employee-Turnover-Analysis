@@ -126,7 +126,11 @@ Date Table:
 
 → Synced Year slicers across all three report pages to ensure all visuals update consistently when a year filter is applied.
 
+![date](https://github.com/Blessing336/Activate-s-Employee-Turnover-Analysis/blob/4b41feda8f1b941c0ccd6d42bcf0087867e93f69/Date%20Table%20created.png)
+
 <br/>
+
+
 
 3. Data Modeling:
 
